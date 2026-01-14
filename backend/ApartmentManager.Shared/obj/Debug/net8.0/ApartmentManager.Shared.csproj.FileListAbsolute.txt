@@ -1,0 +1,12 @@
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Shared\bin\Debug\net8.0\ApartmentManager.Shared.deps.json
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Shared\bin\Debug\net8.0\ApartmentManager.Shared.dll
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Shared\bin\Debug\net8.0\ApartmentManager.Shared.pdb
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Shared\obj\Debug\net8.0\ApartmentManager.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Shared\obj\Debug\net8.0\ApartmentManager.Shared.AssemblyInfoInputs.cache
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Shared\obj\Debug\net8.0\ApartmentManager.Shared.AssemblyInfo.cs
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Shared\obj\Debug\net8.0\ApartmentManager.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Shared\obj\Debug\net8.0\ApartmentManager.Shared.dll
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Shared\obj\Debug\net8.0\refint\ApartmentManager.Shared.dll
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Shared\obj\Debug\net8.0\ApartmentManager.Shared.pdb
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Shared\obj\Debug\net8.0\ref\ApartmentManager.Shared.dll
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Shared\obj\Debug\net8.0\ApartmentManager.Shared.sourcelink.json

@@ -1,0 +1,16 @@
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\bin\Debug\net8.0\ApartmentManager.Core.deps.json
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\bin\Debug\net8.0\ApartmentManager.Core.dll
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\bin\Debug\net8.0\ApartmentManager.Core.pdb
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\bin\Debug\net8.0\ApartmentManager.Shared.dll
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\bin\Debug\net8.0\ApartmentManager.Shared.pdb
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\obj\Debug\net8.0\ApartmentManager.Core.csproj.AssemblyReference.cache
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\obj\Debug\net8.0\ApartmentManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\obj\Debug\net8.0\ApartmentManager.Core.AssemblyInfoInputs.cache
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\obj\Debug\net8.0\ApartmentManager.Core.AssemblyInfo.cs
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\obj\Debug\net8.0\ApartmentManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\obj\Debug\net8.0\Apartmen.8CC68D51.Up2Date
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\obj\Debug\net8.0\ApartmentManager.Core.dll
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\obj\Debug\net8.0\refint\ApartmentManager.Core.dll
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\obj\Debug\net8.0\ApartmentManager.Core.pdb
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\obj\Debug\net8.0\ref\ApartmentManager.Core.dll
+C:\Users\ZLATKO NIKOLOSKI\OneDrive\Desktop\Github\zen-booking\backend\ApartmentManager.Core\obj\Debug\net8.0\ApartmentManager.Core.sourcelink.json
